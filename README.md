@@ -4,8 +4,8 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)](https://flutter.dev)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/ThomasNowProductions/BijbelQuiz?utm_source=oss&utm_medium=github&utm_campaign=ThomasNowProductions%2FBijbelQuiz&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
-![GitHub release](https://img.shields.io/github/v/release/ThomasNowProductions/BijbelQuiz)
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/thomasboom/BijbelQuiz?utm_source=oss&utm_medium=github&utm_campaign=thomasboom%2FBijbelQuiz&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+![GitHub release](https://img.shields.io/github/v/release/thomasboom/BijbelQuiz)
 
 
 BijbelQuiz is a cross-platform Bible quiz app designed to test and improve your knowledge of the Bible. Built with Flutter, it features multiple question types, performance optimizations for low-end devices, and comprehensive offline capabilities.
@@ -14,7 +14,7 @@ BijbelQuiz is a cross-platform Bible quiz app designed to test and improve your 
 
 - **Google Play Store**: [Install](https://bijbelquiz.app/playstore)
 - **Website**: [Play](https://bijbelquiz.app/play)
-- **APK**: [GitHub Releases](https://github.com/ThomasNowProductions/BijbelQuiz/releases)
+- **APK**: [GitHub Releases](https://github.com/thomasboom/BijbelQuiz/releases)
 
 ## 🚀 Getting Started
 
@@ -31,7 +31,7 @@ BijbelQuiz is a cross-platform Bible quiz app designed to test and improve your 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/ThomasNowProductions/BijbelQuiz
+    git clone https://github.com/thomasboom/BijbelQuiz
     cd BijbelQuiz
     ```
 
@@ -107,10 +107,10 @@ For questions, suggestions, or security issues, contact: [thomasnowprod@proton.m
 
 ## Star History
 
-<a href="https://www.star-history.com/#ThomasNowProductions/BijbelQuiz&type=date&legend=top-left">
+<a href="https://www.star-history.com/#thomasboom/BijbelQuiz&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ThomasNowProductions/BijbelQuiz&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ThomasNowProductions/BijbelQuiz&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ThomasNowProductions/BijbelQuiz&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=thomasboom/BijbelQuiz&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=thomasboom/BijbelQuiz&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=thomasboom/BijbelQuiz&type=date&legend=top-left" />
  </picture>
 </a>
